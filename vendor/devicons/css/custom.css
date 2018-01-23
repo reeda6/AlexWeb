@@ -1,0 +1,17 @@
+.cpp {
+  font-family: 'devicons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+.cpp-cpplogo{
+  content: "https://png.icons8.com/color/540/c-plus-plus-logo.png";
+}
